@@ -1,4 +1,4 @@
 autoprefixer-cli -o main.prefixed.css main.css
 
-cli -f "stylish" <files/urls ...>
+nu-html-checker *.html
 
